@@ -1,0 +1,56 @@
+Game Design thoughts : 
+
+
+a game must engage the player to keep going (not addictive, engaging), make them explore, make them wonder, make the think and make them feel
+
+repetition get boring quite quickly, it is more easily accepted for factory game and the like but even then there is a limit to how many times a player will repeat an action/set of actions
+
+players never look behind them, that's where you put secrets
+
+enemies must not be too easy & not too hard (complicated I know)
+
+some parts of the game could be waiting especially if it's a time sensitive game (bomb timer, speedrun, etc...), (area that opens or closes after a certain amount of time, etc...), there doesn't need to be something happening all the time
+
+if a game can be picked up by most people, and they can very quickly play it and genuinely want to play more, you've won, truly those are the best games : those that are fundamentally fun & enjoyable at any point in the play through
+
+it's okay if people only play your game once as long as they enjoyed the experience, and yearns for another one that's just as good
+
+a game must challenge the player in a way - it could be: a cognitive, physical or skill based challenge there are many ways to challenge a person, 
+    but you must reward them for overcoming the challenges you've set out for them, otherwise what's the point of completing them ?
+
+if your game is not a highly technical what's the point of having so many inputs,
+
+you can do so much with so little
+
+if you do not enjoy making the game no one will enjoy playing it, so have fun, 
+
+take a step back from a project every now and then to see the bigger picture(project in its entirety) to better see what's good and what's not
+
+organizing your development process is great but don't get too encased/stuck by it, it can help you as easily as it can trap and drown you
+
+remember focus, and it's okay to let go, it's part of life without death all is meaningless it's what pushes us to reach the highest mountains and then go even further, it's what sent us to space, the meaning of life is how you live it: no regrets, happy and fulfilled, 
+
+remember we are capable of so much, we are glass canons, able to move mountains, but we strain our back when we sneeze so beware know your limits and push them but don't break them unless absolutely necessary because few recover from breaking them and those that do are never the same
+
+always add controller and keyboard support (unless impossible(e.g. game only on console or too many inputs)), many have one but not the other and anyone who is handicapped in a way that prevents them from using a keyboard have special controller that they map to existing controller buttons
+
+it's good to remain within the known game type/genres/mechanics but every now and then Innovate think outside the know worlds and push, see a different reality one shaped through your eyes
+
+making anything is hard but once again; overcome a challenge and thou shall be rewarded accordingly
+
+test your games and have them tested; you as a developer are the first speed runner of your game so have a new pair of eyes look at it and another mind thinking about it
+
+if you have an issue that you simply cannot comprehend how you could even start to fix it, go take a walk, just for 5 minutes, and if after coming back you still can't, move on to the next problem, and if that still doesn't unstick you talk about it to someone else (fresh pairs of eyes and a different brain)
+
+sometimes, it will be hard, but sometimes you simply have to go to bed or go eat or take care of your pet, or something else and put the project on hold for a little bit, don't worry you shall come back to it later
+
+it's okay to not make a complete game and to simply make a mechanic a simple prototype, unfinished but researched and pushed, maybe your idea didn't work out, and maybe you simply didn't like the end result, or you ran out of time and now it an unfinished proto collecting dust waiting for a new hand to touch the beacon
+
+don't lock yourself out of enjoying life just to make a game 
+
+don't drown, keep going 
+
+the mind is a powerful place, and it can affect you in a powerful way
+
+see past the mirrors and windows, go beyond the eyes and forget that they are watching
+
