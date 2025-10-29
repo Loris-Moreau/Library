@@ -2,7 +2,7 @@
 name: Art to Change
 about: There is something missing on the art in the art folder (Credits, etc...)
 title: Art [TITLE] need change
-labels: enhancement
+labels: Modify
 assignees: Loris-Moreau
 
 ---

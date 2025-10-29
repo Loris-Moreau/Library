@@ -2,7 +2,7 @@
 name: Knowledge to Update
 about: Contribute to the Lybrary by updating it's knowledge
 title: Update [TITLE(s)]
-labels: enhancement
+labels: ''
 assignees: Loris-Moreau
 
 ---
