@@ -1,6 +1,6 @@
 ---
 name: Knowledge to Add
-about: Something to contribute to the Library.
+about: Contribute to the Library by adding knowledge
 title: Add [TITLE(s)]
 labels: To Add
 assignees: Loris-Moreau
