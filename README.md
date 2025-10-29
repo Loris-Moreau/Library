@@ -1,16 +1,18 @@
 # Welcome
-### This is my personal Library of knowledge I have "collected" during my time. I will keep updating this until the end of time.
+### This is my personal Library of knowledge I have <i>"collected"</i> during my time. I will keep updating this until the end of time.
 
 You are free to read and use any of this knowledge.
 This was made so that as many people as possible are able to learn as much as possible
 
+<br>
+
 > [!note]
-> If you have a piece of knowledge you wish to add, simply open an issue with links to what you wish to add *(use Google Drive pls)*
+> If you have a piece of the library you wish to add or fix, simply open an [issue](https://github.com/Loris-Moreau/Library/issues) <i>I've made some template for ease of comunication</i> 
 
 
 ## This Lybrary Includes 
 - [Art](https://github.com/Loris-Moreau/Library/tree/main/Art) 
-  - <i>(ps: none of this is mine all artist should have their handles on the art/tutorials, if they don't please open an issue)</i>
+  - <i>(ps: none of this is mine, all artist should have their handles/watermarks on the art/tutorials, if they don't please open an [issue](https://github.com/Loris-Moreau/Library/issues))</i>
 - [Cooking](https://github.com/Loris-Moreau/Library/tree/main/Cooking)
 - [Game Design](https://github.com/Loris-Moreau/Library/tree/main/Game%20Design)
 - [Profesional](https://github.com/Loris-Moreau/Library/tree/main/Profesional)
@@ -30,14 +32,14 @@ This was made so that as many people as possible are able to learn as much as po
 
 ---
 
-## [List of External Resources](https://loris-moreau.github.io/ExternalResources.html)
+## [List of External Resources](https://loris-moreau.github.io/Resources.html)
 ### This list includes : 
 - [General Knowledge](https://loris-moreau.github.io/Resources.html#General)
-- [Programming](https://loris-moreau.github.io/Resources.html#Programming)
+- [Programming](https://loris-moreau.github.io/Resources.html#Prog)
 - [Game Design](https://loris-moreau.github.io/Resources.html#Design)
 - [Maths & Algorithms](https://loris-moreau.github.io/Resources.html#Maths)
 - [Engine](https://loris-moreau.github.io/Resources.html#Engine)
-- [Rendering](https://loris-moreau.github.io/Resources.html#Rendering)
+- [Rendering](https://loris-moreau.github.io/Resources.html#Render)
 - [DOOM](https://loris-moreau.github.io/Resources.html#DOOG)
 - [Tech Art](https://loris-moreau.github.io/Resources.html#TechArt)
 - [Unity](https://loris-moreau.github.io/Resources.html#Unity)
