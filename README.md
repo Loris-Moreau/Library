@@ -2,15 +2,18 @@
 ### This is my personal Library of knowledge I have <i>"collected"</i> during my time. I will keep updating this until the end of time.
 
 You are free to read and use any of this knowledge.
-This was made so that as many people as possible are able to learn as much as possible
+This was made so that as many people as possible can learn as much as possible
 
 <br>
 
 > [!note]
-> If you have a piece of the library you wish to add or fix, simply open an [issue](https://github.com/Loris-Moreau/Library/issues) <i>I've made some template for ease of comunication</i> 
+> If you have a piece of the library you wish to add or fix,
+> simply open an [issue](https://github.com/Loris-Moreau/Library/issues),
+> 
+> <i>I've made some templates for ease of communication </i> 
 
 
-## This Lybrary Includes 
+## This Library Includes 
 - [Art](https://github.com/Loris-Moreau/Library/tree/main/Art) 
   - <i>(ps: none of this is mine, all artist should have their handles/watermarks on the art/tutorials, if they don't please open an [issue](https://github.com/Loris-Moreau/Library/issues))</i>
 - [Cooking](https://github.com/Loris-Moreau/Library/tree/main/Cooking)
@@ -21,7 +24,7 @@ This was made so that as many people as possible are able to learn as much as po
   - [Architecture & Engines](https://github.com/Loris-Moreau/Library/tree/main/Programming/Architecture%20%26%20Engines)
   - [C#](https://github.com/Loris-Moreau/Library/tree/main/Programming/C%23)
   - [C++](https://github.com/Loris-Moreau/Library/tree/main/Programming/C%2B%2B)
-  - [Game Programing](https://github.com/Loris-Moreau/Library/tree/main/Programming/Game)
+  - [Game Programming](https://github.com/Loris-Moreau/Library/tree/main/Programming/Game)
   - [Maths](https://github.com/Loris-Moreau/Library/tree/main/Programming/Maths)
   - [Python](https://github.com/Loris-Moreau/Library/tree/main/Programming/Python)
   - [Rendering & Shading](https://github.com/Loris-Moreau/Library/tree/main/Programming/Rendering%20%26%20Shading)
