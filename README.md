@@ -20,6 +20,7 @@ This was made so that as many people as possible can learn as much as possible
 - [Game Design](https://github.com/Loris-Moreau/Library/tree/main/Game%20Design)
 - [Profesional](https://github.com/Loris-Moreau/Library/tree/main/Profesional)
 - [Programming](https://github.com/Loris-Moreau/Library/tree/main/Programming)
+  - [AI](https://github.com/Loris-Moreau/Library/tree/main/Programming/AI)
   - [Algorithms & Programs](https://github.com/Loris-Moreau/Library/tree/main/Programming/Algorithms%20%26%20Programs)
   - [Architecture & Engines](https://github.com/Loris-Moreau/Library/tree/main/Programming/Architecture%20%26%20Engines)
   - [C#](https://github.com/Loris-Moreau/Library/tree/main/Programming/C%23)
