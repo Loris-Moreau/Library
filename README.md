@@ -53,5 +53,6 @@ This was made so that as many people as possible can learn as much as possible
 - [HTML & CSS](https://loris-moreau.github.io/Resources.html#HtmlCss)
 - [Blogs & Websites](https://loris-moreau.github.io/Resources.html#BlogsWebsites)
 - [Cybersecurity](https://loris-moreau.github.io/Resources.html#Cybersecurity)
+- [Languages](https://loris-moreau.github.io/Resources.html#Languages)
 - [Miscellaneous](https://loris-moreau.github.io/Resources.html#Miscellaneous)
 - [Setup](https://loris-moreau.github.io/Resources.html#Setup)
