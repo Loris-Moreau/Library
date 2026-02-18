@@ -6,6 +6,11 @@ This was made so that as many people as possible can learn as much as possible
 
 <br>
 
+> ![note]
+> Here is a [Library of Assets](https://github.com/Loris-Moreau/Assets-Library)
+> It's plenty of stuff mostly for games, but there is quite the variety.
+
+
 > [!note]
 > If you have a piece of the library you wish to add or fix,
 > simply open an [issue](https://github.com/Loris-Moreau/Library/issues),
